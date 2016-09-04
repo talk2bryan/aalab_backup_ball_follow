@@ -1,1 +1,1 @@
-# aalab_backup_ball_follow
+The purpose of this is for demonstrating the use of OPENCV to track and follow a ball or any round object. This was designed to work on the ROBOTIS OP2 kid size robot (http://en.robotis.com/index/product.php?cate_code=111310).
